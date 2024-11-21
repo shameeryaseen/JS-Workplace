@@ -1,3 +1,4 @@
 const  text="iamshamerr"
-console.log(text.length)
+let accountID=298479
+console.table([text,accountID])
 console.log(text)
